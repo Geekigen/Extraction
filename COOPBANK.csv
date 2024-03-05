@@ -1,0 +1,15 @@
+,TXN_DATE,VALUE_DATE,DESCRIPTION,MONEY_OUT_OR_IN,LEDGER_BALANCE,TRX_TYPE
+0,,,AccountType:Account Type Savings Account Min,,,
+1,,,StatementDate:,,,
+2,,,StatementStartDate:,,,
+3,,,StatementEndDate:,,,
+4,,,Branch:,,,
+5,,,AccountNo:01116283742600,,,
+6,,,Currency:KES,,,
+7,,,AccountOwner:EDDAH NAFULA,,,
+8,,,Opening Balance:0,,,
+9,,,PostalAddress:,,,
+10,,,AccountEmail:,,,
+11,,,CustomerPhoneNumber:254706410268,,,
+12,,,Closing:39.46,,,
+13,TXN_DATE,VALUE_DATE,DESCRIPTION,MONEY_OUT_OR_IN,LEDGER_BALANCE,TRX_TYPE
